@@ -4,6 +4,8 @@
 
 OBD2方式と違い、停車中・半クラ時でも正確なギアポジションを表示できます。
 
+<img width="899" height="848" alt="配線図" src="https://github.com/user-attachments/assets/3d9e854f-ea57-4454-9f36-501d827a81d4" />
+
 ---
 
 ## 必要なもの
